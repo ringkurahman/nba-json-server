@@ -1,4 +1,4 @@
-# GArticle
+# NBA
 > NBA React application project with CSS Transition Group and React Slick.
 
 ## Frontend:
